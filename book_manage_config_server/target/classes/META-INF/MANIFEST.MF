@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: shayan
+Build-Jdk: 15.0.2
+Implementation-Title: BookManagementServer
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.shayan
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/BookManagementServer
+Created-By: Maven Integration for Eclipse
+
